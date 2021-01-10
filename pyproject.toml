@@ -15,11 +15,15 @@ python = "^3.7"
 inspy-logger = "2.0-a3"
 inspyre-toolbox = "^1.0a2"
 PySimpleGUI = "^4.32.1"
+RandomWords = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
+RandomWords = "^0.3.0"
+Sphinx = "^3.4.3"
+
 
 [tool.poetry.scripts]
-pyp-boy = "pyp_boy.main"
+pyp-boy = "pyp_boy.main:run_gui"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

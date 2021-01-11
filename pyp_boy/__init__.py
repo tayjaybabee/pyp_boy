@@ -24,14 +24,20 @@ class PypBoy(object):
             if x == y:
                 print("Match!")
                 correct += 1
-        if correct == num_correct:
+
+        print(correct)
+
+        if int(correct) == int(num_correct):
             correct = 0
+            self.possibles.append(word)
             print(self.possibles)
             return True
 
     def guess(self, guess_str, num_correct):
 
         new_list = []
+        print(guess_str)
+        print(num_correct)
 
         for word in self.word_list:
             if word == guess_str:
@@ -41,6 +47,8 @@ class PypBoy(object):
                     self.possibles.append(word)
 
         self.word_list = self.possibles
+
+        return self.word_list
 
     class Stats(object):
         def __init__(self):

@@ -1,4 +1,6 @@
-![]()
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tayjaybabee/pyp_boy/v1.0.1-dev/repo_media/images/pypboy1.0_vt_poster.jpg">
+</p>
 
 
 # Welcome to PypBoy!
@@ -38,4 +40,6 @@ Below are the computer operating systems that **PypBoy(™)** can run on
 
 ----
 
-![https://softworks.inspyre.tech/images/logo.png](https://softworks.inspyre.tech/images/logo.png)
+<p align="center">
+  <img src="https://softworks.inspyre.tech/images/logo.">
+</p>

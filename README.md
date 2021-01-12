@@ -1,3 +1,6 @@
+![]()
+
+
 # Welcome to PypBoy!
 
 ##### *PypBoy* is not to be confused with *PipBoy(™)*, *PipBoy 2000(™)*, or *PipBoy 3000(™)*. *PipBoy(™)* is an unregistered trademark of *RobCo Industries* and bears no relation to Inspyre Technologies.

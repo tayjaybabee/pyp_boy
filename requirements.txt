@@ -1,0 +1,25 @@
+The lock file does not exist. Locking.
+Updating dependencies
+Resolving dependencies...
+
+Writing lock file
+colorama==0.4.4; python_full_version >= "3.6.3" and python_full_version < "4.0.0" and sys_platform == "win32" \
+    --hash=sha256:9f47eda37229f68eee03b24b9748937c7dc3868f906e8ba69fbcbdd3bc5dc3e2 \
+    --hash=sha256:5941b2b48a20143d2267e95b1c2a7603ce057ee39fd88e7329b0c292aa16869b
+colorlog==4.6.2; python_full_version >= "3.6.3" and python_full_version < "4.0.0" \
+    --hash=sha256:edd5ada5de03e880e42b2526f8be5570fd9b692f8eb7cf6b1fdcac3e3fb23976 \
+    --hash=sha256:54e5f153419c22afc283c130c4201db19a3dbd83221a0f4657d5ee66234a2ea4
+inspy-logger==2.0.0a3; python_full_version >= "3.6.3" and python_full_version < "4.0.0" \
+    --hash=sha256:72b92f6a0c1cd2790c2a9e24b488c75f748230c05b41cc0dfbc3a82b93658299 \
+    --hash=sha256:3d469f1ff3535a79fb2fef849ffa13ef3e0e19891442db0d8fd81849e924fd16
+inspyre-toolbox==1.0a2; python_version >= "3.7" and python_version < "4.0" \
+    --hash=sha256:f379677385622d648c33401516f7e42195141a386d36f3799b1e0cbf2b2f5487 \
+    --hash=sha256:662db506b34a20cfdc3a8c30fc08712db0bf0a451a175d954470f785a5d3a7bc
+pysimplegui==4.33.0 \
+    --hash=sha256:a4889564bd55d01bd7c9fe7faa18d3512318003351ebd83ace8da0d83594c847 \
+    --hash=sha256:54476526654dfc57057fc7d8cb202308e19ca0161d88d94c0313a1845130b8ee
+randomwords==0.3.0 \
+    --hash=sha256:2a8c8d95bcea31a0da16a84911768f7d6fc0eba861264a72df83deddea0b9326
+setuptools-autover==1.0.2; python_full_version >= "3.6.3" and python_full_version < "4.0.0" and python_version >= "3.5" \
+    --hash=sha256:74f99ef522381beed318b77cf9cc31e87a9c63240c02165a1a2033fac0bdec84 \
+    --hash=sha256:8fc16cc5c54fa7766ddd53629d5aae1a02724078e1d3b653a9e523af53fefbe4
